@@ -1,0 +1,24 @@
+[submodule "shared-state"]
+	path = shared-state
+	url = https://github.com/citybound/shared-state.git
+[submodule "tap-spec"]
+	path = tap-spec
+	url = https://github.com/citybound/tap-spec.git
+[submodule "code-builder"]
+	path = code-builder
+	url = https://github.com/citybound/code-builder.git
+[submodule "nd-linalg"]
+	path = nd-linalg
+	url = https://github.com/citybound/nd-linalg.git
+[submodule "module-garden"]
+	path = module-garden
+	url = https://github.com/citybound/module-garden.git
+[submodule "iteratorers"]
+	path = iteratorers
+	url = https://github.com/citybound/iteratorers.git
+[submodule "meta-eval"]
+	path = meta-eval
+	url = https://github.com/citybound/meta-eval.git
+[submodule "vectorizer"]
+	path = vectorizer
+	url = https://github.com/citybound/vectorizer.git
